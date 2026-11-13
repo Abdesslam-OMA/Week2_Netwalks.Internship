@@ -146,7 +146,7 @@ Below are the screenshots captured during the practical exercises:
 ### Project Module 1 -- Footprinting with Kali Linux
 
 -   **WHOIS Lookup:**
-    ![WHOIS Output](evidence/W2-PM1-Kali-Recon/whois.jpg)
+    ![WHOIS Output](evidence/W2-PM1-Kali-Recon/whois.png)
 -   **WhatWeb Fingerprinting:**
     ![WhatWeb Output](evidence/W2-PM1-Kali-Recon/whatweb.png)
 -   **nslookup DNS Resolution:**
@@ -156,7 +156,7 @@ Below are the screenshots captured during the practical exercises:
 -   **WAFW00F Firewall Detection:**
     ![WAFW00F Output](evidence/W2-PM1-Kali-Recon/wafw00f.png)
 -   **DNSRecon Record Enumeration:**
-    ![DNSRecon Output](evidence/W2-PM1-Kali-Recon/dnsrecon.jpg)
+    ![DNSRecon Output](evidence/W2-PM1-Kali-Recon/dnsrecon.png)
 
 ### Project Module 4 -- Reconnaissance with theHarvester
 
